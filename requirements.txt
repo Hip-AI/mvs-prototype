@@ -1,0 +1,33 @@
+# Core
+numpy
+pandas
+scikit-learn
+matplotlib
+seaborn
+jupyter
+
+# NLP
+transformers
+sentence-transformers
+
+# Audio
+librosa
+opensmile==2.3.0
+
+# Computer Vision
+opencv-python
+mediapipe
+face-recognition
+
+# Deep Learning (optional but helpful)
+torch
+torchaudio
+torchvision
+
+# Model Interpretability
+shap
+lime
+
+# Utility
+tqdm
+joblib
